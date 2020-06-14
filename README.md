@@ -1,3 +1,2 @@
 # Saikat Chowdhury
-chowdhurysaikat.github.io
-Welcome to my website
+<img src="Images/resume.png" alt="Resume of Saikat Chowdhury">
