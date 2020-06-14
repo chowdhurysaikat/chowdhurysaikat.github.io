@@ -1,2 +1,5 @@
 # Saikat Chowdhury
-<img src="Images/resume.png" alt="Resume of Saikat Chowdhury">
+<!DOCTYPE html>
+<html>
+<img src="Images/Resume.png" alt="Resume of Saikat Chowdhury">
+</html>
